@@ -1,0 +1,8 @@
+# Maximum and Minimum in a Vector
+v <- c(10, 25, 5, 40, 18)
+
+cat("Vector:\n")
+print(v)
+
+cat("Maximum =", max(v), "\n")
+cat("Minimum =", min(v))
