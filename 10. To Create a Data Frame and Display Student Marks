@@ -1,0 +1,9 @@
+# Student Marks Data Frame
+roll_no <- c(101, 102, 103)
+name <- c("Arun", "Bala", "Chitra")
+marks <- c(85, 92, 78)
+
+student <- data.frame(roll_no, name, marks)
+
+cat("Student Marks:\n")
+print(student)
